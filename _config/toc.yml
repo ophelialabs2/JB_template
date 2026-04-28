@@ -5,7 +5,7 @@
 
 version: 1
 toc:
-  - file: ../c/README.md
+  - file: README.md
   
   # ============= C Section ===============
   # Parent 1 
