@@ -5,24 +5,88 @@
 
 version: 1
 toc:
-  - file: ../content/README.md
+  - file: ../c/README.md
   
+  ## Content Sections
   # ==== Parent 1 ====
   - title: Parent 1
     children:
       - title: Part 1
         children:
-          - pattern: '../content/parent_1/part_1/*.md'
+          - file: '../c/parent_1/part_1/1-1.md'
+          - file: '../c/parent_1/part_1/1-2.md'
+          - file: '../c/parent_1/part_1/1-3.md'
       - title: Part 2
         children:
-          - pattern: '../content/parent_1/part_2/*.md'
+          - pattern: '../c/parent_1/part_2/*.md'
+      - title: Part 3
+        children:
+          - pattern: '../c/parent_1/part_3/*.md'
   
   # ==== Parent 2 ====
   - title: Parent 2
     children:
       - title: Part 1
         children:
-          - pattern: '../content/parent_2/part_1/*.md'
+          - pattern: '../c/parent_2/part_1/*.ipynb'
       - title: Part 2
         children:
-          - pattern: '../content/parent_2/part_2/*.md'
+          - pattern: '../c/parent_2/part_2/*.ipynb'
+      - title: Part 3
+        children:
+          - pattern: '../c/parent_2/part_3/*.ipynb'
+
+  ## D section
+  # ==== Parent 1 ====
+  - title: Parent 1
+    children:
+      - title: Part 1
+        children:
+          - pattern: '../d/parent_1/part_1/*.md'
+      - title: Part 2
+        children:
+          - pattern: '../d/parent_1/part_2/*.md'
+      - title: Part 3
+        children:
+          - pattern: '../d/parent_1/part_3/*.md'
+
+  # ==== Parent 2 ====
+  - title: Parent 2
+    children:
+      - title: Part 1
+        children:
+          - pattern: '../d/parent_2/part_1/*.ipynb'
+      - title: Part 2
+        children:
+          - pattern: '../d/parent_2/part_2/*.ipynb'
+      - title: Part 3
+        children:
+          - pattern: '../d/parent_2/part_3/*.ipynb' 
+
+  ## E section
+  # ==== Parent 1 ====
+  - title: Parent 1
+    children:
+      - title: Part 1
+        children:
+          - pattern: '../e/parent_1/part_1/*.md'
+      - title: Part 2
+        children:
+          - pattern: '../e/parent_1/part_2/*.md'
+      - title: Part 3
+        children:
+          - pattern: '../e/parent_1/part_3/*.md'  
+
+  # ==== Parent 2 ====
+  - title: Parent 2
+    children:
+      - title: Part 1
+        children:
+          - pattern: '../e/parent_2/part_1/*.ipynb'
+      - title: Part 2
+        children:
+          - pattern: '../e/parent_2/part_2/*.ipynb'
+      - title: Part 3
+        children:
+          - pattern: '../e/parent_2/part_3/*.ipynb'  
+
