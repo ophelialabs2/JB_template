@@ -1,1 +1,1 @@
-import{a}from"/jb./build/_shared/chunk-SZAK5OLM.js";import"/jb./build/_shared/chunk-SWM73M5L.js";import"/jb./build/_shared/chunk-37MEAX4M.js";import"/jb./build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/JB_template/build/_shared/chunk-SZAK5OLM.js";import"/JB_template/build/_shared/chunk-SWM73M5L.js";import"/JB_template/build/_shared/chunk-37MEAX4M.js";import"/JB_template/build/_shared/chunk-OZE3FFNP.js";export default a();
