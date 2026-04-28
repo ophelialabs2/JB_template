@@ -56,13 +56,13 @@ toc:
     children:
       - title: Part 1
         children:
-          - pattern: '../d/parent_2/part_1/*.ipynb'
+          - pattern: '../d/parent_2/part_1/*.md'
       - title: Part 2
         children:
-          - pattern: '../d/parent_2/part_2/*.ipynb'
+          - pattern: '../d/parent_2/part_2/*.md'
       - title: Part 3
         children:
-          - pattern: '../d/parent_2/part_3/*.ipynb' 
+          - pattern: '../d/parent_2/part_3/*.md' 
 
   # =========== E section ================
   ## Parent 1
@@ -83,11 +83,11 @@ toc:
     children:
       - title: Part 1
         children:
-          - pattern: '../e/parent_2/part_1/*.ipynb'
+          - pattern: '../e/parent_2/part_1/*.md'
       - title: Part 2
         children:
-          - pattern: '../e/parent_2/part_2/*.ipynb'
+          - pattern: '../e/parent_2/part_2/*.md'
       - title: Part 3
         children:
-          - pattern: '../e/parent_2/part_3/*.ipynb'  
+          - pattern: '../e/parent_2/part_3/*.md'  
 
