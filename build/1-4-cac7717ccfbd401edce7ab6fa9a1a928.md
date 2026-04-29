@@ -1,5 +1,5 @@
 ---
-title: 1-1.3 - Implementation Patterns
+title: 1-4 - Implementation Patterns
 date: 2026-04-27
 authors:
   - name: Jay Labs
