@@ -25,7 +25,8 @@ toc:
           - file: '../c/parent_1/part_2/2-3.md
       - title: Part 3
         children:
-          - pattern: '../c/parent_1/part_3/*.md'
+          - file: '../c/parent_1/part_3/3-1.md'
+          - file: '../c/parent_1/part_3/3-1.ipynb'
   
   # Parent 2 
   - title: Parent 2
