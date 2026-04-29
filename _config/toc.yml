@@ -22,7 +22,7 @@ toc:
         children:
           - file: '../c/parent_1/part_2/2-1.md'
           - file: '../c/parent_1/part_2/2-2.md'
-          - file: '../c/parent_1/part_2/2-3.md
+          - file: '../c/parent_1/part_2/2-3.md'
       - title: Part 3
         children:
           - file: '../c/parent_1/part_3/3-1.md'
