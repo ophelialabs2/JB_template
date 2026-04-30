@@ -24,3 +24,8 @@ Primordial <wiki:gravitational_waves> are hypothesized to arise from <wiki:cosmi
 ---
 
 [#87](https://github.com/jupyter-book/myst-theme/pull/87)
+
+1. Using the title attribute in links:
+    * [link text](url "title")
+2. Using MyST's {doc} or other role syntax 
+    * external links, so roles might not be ideal
